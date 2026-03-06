@@ -1,0 +1,11 @@
+date,location,severity,violation
+2026-02-14 13:45:55.540160,NH-45,High,"Overspeeding,Signal Violation"
+2026-02-14 13:46:11.262101,NH-45,High,Drunk Driving
+2026-02-14 13:46:30.463079,NH-45,Low,Careless Driving
+2026-02-14 13:47:00.860705,Unknown,Low,Signal Violation
+2026-02-14 14:01:20.339753,NH-45,High,Overspeeding
+2026-02-14 14:01:45.548107,NH-45,High,"Drunk Driving,Signal Violation"
+2026-02-14 14:02:04.065095,NH-45,High,Overspeeding
+2026-02-14 14:02:24.069448,NH-45,Low,Careless Driving
+2026-02-14 16:13:57.034502,Unknown,High,Overspeeding
+2026-02-15 22:26:59.690881,Unknown,High,Drunk Driving

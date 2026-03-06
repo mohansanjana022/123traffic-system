@@ -1,0 +1,37 @@
+lat,lon,color,popup
+40.5846902,-73.9157934,orange,"
+                <b>Severity:</b> Moderate<br>
+                <b>Causes:</b> Signal Violation, Distraction
+                "
+40.729423,-73.8606103,green,"
+                <b>Severity:</b> Minor<br>
+                <b>Causes:</b> No Strong Violation Detected
+                "
+40.7551169,-73.98478,red,"
+                <b>Severity:</b> Severe<br>
+                <b>Causes:</b> Signal Violation, Distraction
+                "
+40.5834557,-74.1496048,orange,"
+                <b>Severity:</b> Moderate<br>
+                <b>Causes:</b> Signal Violation, Careless Driving, Distraction
+                "
+40.7551169,-73.98478,red,"
+                <b>Severity:</b> Severe<br>
+                <b>Causes:</b> Signal Violation, Careless Driving, Distraction
+                "
+40.7203017,-73.8412055,red,"
+                <b>Severity:</b> Severe<br>
+                <b>Causes:</b> Signal Violation, Distraction
+                "
+40.6036982,-73.899284,orange,"
+                <b>Severity:</b> Moderate<br>
+                <b>Causes:</b> Signal Violation, Distraction
+                "
+40.7551169,-73.98478,red,"
+                <b>Severity:</b> Severe<br>
+                <b>Causes:</b> Signal Violation, Careless Driving, Distraction
+                "
+40.7551169,-73.98478,red,"
+                <b>Severity:</b> Severe<br>
+                <b>Causes:</b> Signal Violation, Careless Driving, Distraction
+                "
